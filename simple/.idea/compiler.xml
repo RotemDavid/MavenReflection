@@ -17,11 +17,8 @@
     </wildcardResourcePatterns>
     <annotationProcessing enabled="false" useClasspath="true" />
   </component>
-<<<<<<< HEAD
-=======
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_STRING" value="-target 1.5" />
   </component>
->>>>>>> 28fade4199b4a9f3367616dd8ae02fe0530f13e8
 </project>
 
